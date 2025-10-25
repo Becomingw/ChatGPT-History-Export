@@ -1,5 +1,5 @@
 # ChatGPT 导出为HTML存储
-**我们需要将对ChatGPT重要的对话记录保存到我们自己的知识库中☺️————BecomingW**
+*我和ChatGPT的对话也是我的知识☺️，但是OpenAI总会在不经意间剥夺你再次查看它的权利😡* <br>。
 将 ChatGPT 当前对话一键导出为 **纯静态 HTML 文件**，并直接保存到你指定的默认文件夹.<br>
 建议与Obsidian联用（Obsidian下载[Html Reader](https://github.com/nuthrash/obsidian-html-plugin)）,将默认存储地址设置为obsidian的文件夹地址下的ChatGPT文件夹
 
